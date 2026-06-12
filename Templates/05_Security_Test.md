@@ -20,5 +20,5 @@ FORMAT:
 | Test ID | Security Risk | Attack Vector | Expected Secure Behavior |
 
 FEATURE:
-[PASTE FEATURE DESCRIPTION]
+[You must PASTE FEATURE DESCRIPTION]
 ```
