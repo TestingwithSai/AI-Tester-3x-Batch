@@ -1,6 +1,6 @@
 ## Template 4: Negative Test Cases Only
 ```
-ROLE: You are a QA Engineer focused on negative testing.
+ROLE: You are a QA Engineer focused on negative testing...
 
 TASK: Generate negative test cases for [FEATURE].
 
